@@ -1,0 +1,1438 @@
+** Drc report for eeg-adapter-revb.kicad_pcb **
+** Created on 2026-06-26T15:20:53 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 364 DRC violations **
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1961 mm)
+    Local override; error
+    @(22.5000 mm, -69.7500 mm): Track [REF] on F.Cu, length 0.3536 mm
+    @(22.8600 mm, -70.7875 mm): PTH pad P23 [1.28] of U$1
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1721 mm)
+    Local override; error
+    @(20.0000 mm, -69.7500 mm): Track [REF] on F.Cu, length 0.3536 mm
+    @(20.3200 mm, -70.7875 mm): PTH pad P26 [C1.29] of U$1
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1811 mm)
+    Local override; error
+    @(26.2500 mm, -70.2500 mm): Track [REF] on F.Cu, length 0.7071 mm
+    @(25.4000 mm, -70.7875 mm): PTH pad 31 [<no net>] of U$1
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1961 mm)
+    Local override; error
+    @(22.2500 mm, -70.0000 mm): Track [REF] on F.Cu, length 1.0000 mm
+    @(22.8600 mm, -70.7875 mm): PTH pad P23 [1.28] of U$1
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1721 mm)
+    Local override; error
+    @(19.7500 mm, -70.0000 mm): Track [REF] on F.Cu, length 1.2500 mm
+    @(20.3200 mm, -70.7875 mm): PTH pad P26 [C1.29] of U$1
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.0000 mm, -2.7500 mm): Track [4.10] on F.Cu, length 6.7175 mm
+    @(54.7500 mm, -7.0000 mm): Track [4.11] on F.Cu, length 10.0050 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.0000 mm, -2.2500 mm): Track [4.11] on F.Cu, length 6.7175 mm
+    @(29.5000 mm, -2.7500 mm): Track [4.10] on F.Cu, length 20.5000 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.0000 mm, -3.2500 mm): Track [4.9] on F.Cu, length 7.0711 mm
+    @(54.7500 mm, -7.5000 mm): Track [4.10] on F.Cu, length 9.9000 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.5000 mm, -40.2500 mm): Track [2.16] on F.Cu, length 7.7782 mm
+    @(20.2500 mm, -40.7500 mm): Track [2.15] on F.Cu, length 30.2500 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.0000 mm, -2.2500 mm): Track [4.11] on F.Cu, length 6.7175 mm
+    @(50.0000 mm, -2.7500 mm): Track [4.10] on F.Cu, length 6.7175 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.0000 mm, -1.7500 mm): Track [4.12] on F.Cu, length 6.7175 mm
+    @(27.7500 mm, -2.2500 mm): Track [4.11] on F.Cu, length 22.2500 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.5000 mm, -40.7500 mm): Track [2.15] on F.Cu, length 8.1317 mm
+    @(56.0300 mm, -45.7200 mm): Track [2.16] on F.Cu, length 0.0424 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1960 mm)
+    Local override; error
+    @(50.5000 mm, -40.7500 mm): Track [2.15] on F.Cu, length 8.1317 mm
+    @(64.7700 mm, -45.7200 mm): Track [2.16] on F.Cu, length 8.7400 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.0000 mm, -1.7500 mm): Track [4.12] on F.Cu, length 6.7175 mm
+    @(50.0000 mm, -2.2500 mm): Track [4.11] on F.Cu, length 6.7175 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.0000 mm, -1.2500 mm): Track [4.13] on F.Cu, length 6.3640 mm
+    @(26.0000 mm, -1.7500 mm): Track [4.12] on F.Cu, length 24.0000 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1945 mm)
+    Local override; error
+    @(64.6200 mm, -6.5000 mm): Track [4.12] on F.Cu, length 0.2121 mm
+    @(64.7700 mm, -6.9850 mm): Pad P$12 [4.11] of U$8 on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.0000 mm, -2.2500 mm): Track [4.11] on F.Cu, length 6.7175 mm
+    @(54.7500 mm, -6.5000 mm): Track [4.12] on F.Cu, length 9.8700 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(24.0000 mm, -1.2500 mm): Track [4.13] on F.Cu, length 26.0000 mm
+    @(50.0000 mm, -0.7500 mm): Track [4.14] on F.Cu, length 6.3640 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.0000 mm, -1.7500 mm): Track [4.12] on F.Cu, length 6.7175 mm
+    @(50.0000 mm, -1.2500 mm): Track [4.13] on F.Cu, length 6.3640 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.0000 mm, -1.7500 mm): Track [4.12] on F.Cu, length 6.7175 mm
+    @(54.5000 mm, -5.7500 mm): Track [4.13] on F.Cu, length 10.2350 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(24.2500 mm, -21.5000 mm): Track [3.13] on F.Cu, length 26.0000 mm
+    @(50.2500 mm, -21.0000 mm): Track [3.14] on F.Cu, length 6.3640 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(22.5000 mm, -21.0000 mm): Track [3.14] on F.Cu, length 27.7500 mm
+    @(50.2500 mm, -20.5000 mm): Track [3.15] on F.Cu, length 6.0104 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.2500 mm, -21.5000 mm): Track [3.13] on F.Cu, length 6.3640 mm
+    @(54.7500 mm, -25.5000 mm): Track [3.14] on F.Cu, length 9.9200 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(21.0000 mm, -20.5000 mm): Track [3.15] on F.Cu, length 29.2500 mm
+    @(50.2500 mm, -20.0000 mm): Track [3.16] on F.Cu, length 6.0104 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.0000 mm, -0.7500 mm): Track [4.14] on F.Cu, length 6.3640 mm
+    @(50.0000 mm, -1.2500 mm): Track [4.13] on F.Cu, length 6.3640 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(54.5000 mm, -5.2500 mm): Track [4.14] on F.Cu, length 10.1000 mm
+    @(50.0000 mm, -1.2500 mm): Track [4.13] on F.Cu, length 6.3640 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1745 mm)
+    Local override; error
+    @(64.6000 mm, -5.2500 mm): Track [4.14] on F.Cu, length 0.2404 mm
+    @(64.7700 mm, -5.7150 mm): Pad P$14 [4.13] of U$8 on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.2500 mm, -21.0000 mm): Track [3.14] on F.Cu, length 6.3640 mm
+    @(54.5000 mm, -24.7500 mm): Track [3.15] on F.Cu, length 10.2550 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(54.5000 mm, -24.2500 mm): Track [3.16] on F.Cu, length 10.1500 mm
+    @(50.2500 mm, -20.5000 mm): Track [3.15] on F.Cu, length 6.0104 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(49.5000 mm, -67.5000 mm): Track [1.1] on F.Cu, length 2.2500 mm
+    @(51.7500 mm, -67.0000 mm): Track [1.2] on F.Cu, length 9.5459 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.7500 mm, -67.5000 mm): Track [1.1] on F.Cu, length 9.5459 mm
+    @(58.5000 mm, -73.7500 mm): Track [1.2] on F.Cu, length 6.1800 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.2500 mm, -20.0000 mm): Track [3.16] on F.Cu, length 6.0104 mm
+    @(50.2500 mm, -20.5000 mm): Track [3.15] on F.Cu, length 6.0104 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(45.2500 mm, -28.5000 mm): Track [3.1] on F.Cu, length 6.0000 mm
+    @(51.2500 mm, -28.0000 mm): Track [3.2] on F.Cu, length 7.0711 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.2500 mm, -28.5000 mm): Track [3.1] on F.Cu, length 7.4246 mm
+    @(56.2500 mm, -33.0000 mm): Track [3.2] on F.Cu, length 8.5000 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1795 mm)
+    Local override; error
+    @(64.6050 mm, -13.5000 mm): Track [4.1] on F.Cu, length 0.2333 mm
+    @(64.7700 mm, -13.9700 mm): Pad P$1 [GND] of U$8 on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1575 mm)
+    Local override; error
+    @(44.0000 mm, -71.7500 mm): Track [1.18] on B.Cu, length 3.1820 mm
+    @(44.4500 mm, -72.7075 mm): PTH pad 0 [<no net>] of U$1
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(49.2500 mm, -8.2500 mm): Track [4.1] on F.Cu, length 1.7500 mm
+    @(51.0000 mm, -7.7500 mm): Track [4.2] on F.Cu, length 7.0711 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1575 mm)
+    Local override; error
+    @(43.5000 mm, -71.7500 mm): Track [1.18] on B.Cu, length 0.5000 mm
+    @(44.4500 mm, -72.7075 mm): PTH pad 0 [<no net>] of U$1
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(58.0000 mm, -54.7500 mm): Track [2.2] on F.Cu, length 6.6300 mm
+    @(51.5000 mm, -48.7500 mm): Track [2.1] on F.Cu, length 9.1924 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1795 mm)
+    Local override; error
+    @(56.2500 mm, -13.5000 mm): Track [4.1] on F.Cu, length 8.3550 mm
+    @(64.7700 mm, -13.9700 mm): Pad P$1 [GND] of U$8 on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.0000 mm, -8.2500 mm): Track [4.1] on F.Cu, length 7.4246 mm
+    @(56.0000 mm, -12.7500 mm): Track [4.2] on F.Cu, length 8.7200 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.5000 mm, -48.2500 mm): Track [2.2] on F.Cu, length 9.1924 mm
+    @(45.5000 mm, -48.7500 mm): Track [2.1] on F.Cu, length 6.0000 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(49.2500 mm, -67.0000 mm): Track [1.2] on F.Cu, length 2.5000 mm
+    @(51.2500 mm, -66.0000 mm): Track [1.3] on F.Cu, length 9.8995 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1740 mm)
+    Local override; error
+    @(44.4500 mm, -33.3375 mm): PTH pad 0 [<no net>] of U$3
+    @(42.6775 mm, -33.3225 mm): Track [3.18] on B.Cu, length 3.9916 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1917 mm)
+    Local override; error
+    @(43.1800 mm, -9.0700 mm): Track [4.17] on B.Cu, length 1.8668 mm
+    @(44.4500 mm, -9.2025 mm): PTH pad 1.1 [4.1] of U$4
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(58.2500 mm, -73.0000 mm): Track [1.3] on F.Cu, length 6.4950 mm
+    @(51.7500 mm, -67.0000 mm): Track [1.2] on F.Cu, length 9.5459 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.2500 mm, -65.5000 mm): Track [1.4] on F.Cu, length 9.8995 mm
+    @(42.0000 mm, -66.0000 mm): Track [1.3] on F.Cu, length 9.2500 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.2500 mm, -65.5000 mm): Track [1.4] on F.Cu, length 9.8995 mm
+    @(51.2500 mm, -66.0000 mm): Track [1.3] on F.Cu, length 9.8995 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.2500 mm, -28.0000 mm): Track [3.2] on F.Cu, length 7.0711 mm
+    @(56.2500 mm, -32.5000 mm): Track [3.3] on F.Cu, length 8.4050 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(44.5000 mm, -28.0000 mm): Track [3.2] on F.Cu, length 6.7500 mm
+    @(50.2500 mm, -26.5000 mm): Track [3.3] on F.Cu, length 8.4853 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1528 mm)
+    Local override; error
+    @(43.5000 mm, -12.0000 mm): Track [4.18] on B.Cu, length 1.0000 mm
+    @(43.1800 mm, -11.1025 mm): PTH pad 1.2 [4.17] of U$4
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.2500 mm, -26.0000 mm): Track [3.4] on F.Cu, length 8.1317 mm
+    @(42.0000 mm, -26.5000 mm): Track [3.3] on F.Cu, length 8.2500 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1616 mm)
+    Local override; error
+    @(44.4500 mm, -53.6575 mm): PTH pad 0 [<no net>] of U$2
+    @(42.6950 mm, -53.6425 mm): Track [2.18] on B.Cu, length 3.9669 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(56.0000 mm, -31.7500 mm): Track [3.4] on F.Cu, length 8.7700 mm
+    @(50.2500 mm, -26.5000 mm): Track [3.3] on F.Cu, length 8.4853 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1528 mm)
+    Local override; error
+    @(43.1800 mm, -11.1025 mm): PTH pad 1.2 [4.17] of U$4
+    @(42.4975 mm, -13.0025 mm): Track [4.18] on B.Cu, length 1.4177 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(49.0000 mm, -7.7500 mm): Track [4.2] on F.Cu, length 2.0000 mm
+    @(50.0000 mm, -6.2500 mm): Track [4.3] on F.Cu, length 8.1317 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1525 mm)
+    Local override; error
+    @(44.4500 mm, -9.2025 mm): PTH pad 1.1 [4.1] of U$4
+    @(44.0000 mm, -8.2500 mm): Track [4.2] on F.Cu, length 4.5000 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.5000 mm, -48.2500 mm): Track [2.2] on F.Cu, length 9.1924 mm
+    @(50.5000 mm, -46.7500 mm): Track [2.3] on F.Cu, length 10.2530 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1917 mm)
+    Local override; error
+    @(44.4500 mm, -9.2025 mm): PTH pad 1.1 [4.1] of U$4
+    @(43.0575 mm, -9.1925 mm): Track [4.2] on F.Cu, length 1.3329 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(55.7500 mm, -12.0000 mm): Track [4.3] on F.Cu, length 8.9550 mm
+    @(51.0000 mm, -7.7500 mm): Track [4.2] on F.Cu, length 7.0711 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(44.5000 mm, -48.2500 mm): Track [2.2] on F.Cu, length 7.0000 mm
+    @(50.5000 mm, -46.7500 mm): Track [2.3] on F.Cu, length 10.2530 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(42.7500 mm, -46.7500 mm): Track [2.3] on F.Cu, length 7.7500 mm
+    @(50.5000 mm, -46.2500 mm): Track [2.4] on F.Cu, length 9.8995 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(57.5000 mm, -53.2500 mm): Track [2.4] on F.Cu, length 7.1800 mm
+    @(50.5000 mm, -46.7500 mm): Track [2.3] on F.Cu, length 10.2530 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.5000 mm, -48.2500 mm): Track [2.2] on F.Cu, length 9.1924 mm
+    @(57.7500 mm, -54.0000 mm): Track [2.3] on F.Cu, length 6.9950 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(42.7500 mm, -6.2500 mm): Track [4.3] on F.Cu, length 7.2500 mm
+    @(50.0000 mm, -5.7500 mm): Track [4.4] on F.Cu, length 8.1317 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(55.7500 mm, -11.5000 mm): Track [4.4] on F.Cu, length 8.9500 mm
+    @(50.0000 mm, -6.2500 mm): Track [4.3] on F.Cu, length 8.1317 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(58.2500 mm, -72.5000 mm): Track [1.4] on F.Cu, length 6.4100 mm
+    @(51.2500 mm, -66.0000 mm): Track [1.3] on F.Cu, length 9.8995 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.2500 mm, -65.5000 mm): Track [1.4] on F.Cu, length 9.8995 mm
+    @(58.0000 mm, -71.7500 mm): Track [1.5] on F.Cu, length 6.7650 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(40.5000 mm, -65.5000 mm): Track [1.4] on F.Cu, length 10.7500 mm
+    @(51.2500 mm, -65.0000 mm): Track [1.5] on F.Cu, length 9.5459 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(57.7500 mm, -71.0000 mm): Track [1.6] on F.Cu, length 6.9000 mm
+    @(51.2500 mm, -65.0000 mm): Track [1.5] on F.Cu, length 9.5459 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1825 mm)
+    Local override; error
+    @(44.4500 mm, -13.0175 mm): PTH pad 0 [<no net>] of U$4
+    @(41.0000 mm, -14.0000 mm): Track [4.19] on B.Cu, length 4.2500 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.2500 mm, -26.0000 mm): Track [3.4] on F.Cu, length 8.1317 mm
+    @(56.0000 mm, -31.2500 mm): Track [3.5] on F.Cu, length 8.6350 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.2500 mm, -64.5000 mm): Track [1.6] on F.Cu, length 9.1924 mm
+    @(38.2500 mm, -65.0000 mm): Track [1.5] on F.Cu, length 13.0000 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1705 mm)
+    Local override; error
+    @(44.4500 mm, -13.0175 mm): PTH pad 0 [<no net>] of U$4
+    @(45.2500 mm, -14.0000 mm): Track [4.19] on B.Cu, length 1.0607 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.2500 mm, -25.5000 mm): Track [3.5] on F.Cu, length 8.1317 mm
+    @(40.0000 mm, -26.0000 mm): Track [3.4] on F.Cu, length 10.2500 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.2500 mm, -25.0000 mm): Track [3.6] on F.Cu, length 7.7782 mm
+    @(38.2500 mm, -25.5000 mm): Track [3.5] on F.Cu, length 12.0000 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(55.7500 mm, -30.5000 mm): Track [3.6] on F.Cu, length 9.0000 mm
+    @(50.2500 mm, -25.5000 mm): Track [3.5] on F.Cu, length 8.1317 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(39.5000 mm, -46.2500 mm): Track [2.4] on F.Cu, length 11.0000 mm
+    @(50.5000 mm, -45.7500 mm): Track [2.5] on F.Cu, length 9.8995 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.5000 mm, -46.7500 mm): Track [2.3] on F.Cu, length 10.2530 mm
+    @(50.5000 mm, -46.2500 mm): Track [2.4] on F.Cu, length 9.8995 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(38.0000 mm, -45.7500 mm): Track [2.5] on F.Cu, length 12.5000 mm
+    @(50.5000 mm, -45.2500 mm): Track [2.6] on F.Cu, length 9.8995 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(57.5000 mm, -52.7500 mm): Track [2.5] on F.Cu, length 7.2250 mm
+    @(50.5000 mm, -46.2500 mm): Track [2.4] on F.Cu, length 9.8995 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.5000 mm, -46.2500 mm): Track [2.4] on F.Cu, length 9.8995 mm
+    @(50.5000 mm, -45.7500 mm): Track [2.5] on F.Cu, length 9.8995 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.0000 mm, -5.2500 mm): Track [4.5] on F.Cu, length 7.7782 mm
+    @(40.7500 mm, -5.7500 mm): Track [4.4] on F.Cu, length 9.2500 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(55.5000 mm, -10.7500 mm): Track [4.5] on F.Cu, length 9.2250 mm
+    @(50.0000 mm, -5.7500 mm): Track [4.4] on F.Cu, length 8.1317 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(36.5000 mm, -64.5000 mm): Track [1.6] on F.Cu, length 14.7500 mm
+    @(51.2500 mm, -64.0000 mm): Track [1.7] on F.Cu, length 9.1924 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(38.0000 mm, -5.2500 mm): Track [4.5] on F.Cu, length 12.0000 mm
+    @(50.0000 mm, -4.7500 mm): Track [4.6] on F.Cu, length 7.7782 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.0000 mm, -5.2500 mm): Track [4.5] on F.Cu, length 7.7782 mm
+    @(55.5000 mm, -10.2500 mm): Track [4.6] on F.Cu, length 9.1800 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(57.7500 mm, -70.5000 mm): Track [1.7] on F.Cu, length 7.0050 mm
+    @(51.2500 mm, -64.5000 mm): Track [1.6] on F.Cu, length 9.1924 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(57.7500 mm, -70.0000 mm): Track [1.8] on F.Cu, length 6.8700 mm
+    @(51.2500 mm, -64.0000 mm): Track [1.7] on F.Cu, length 9.1924 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(35.7500 mm, -25.0000 mm): Track [3.6] on F.Cu, length 14.5000 mm
+    @(50.2500 mm, -24.5000 mm): Track [3.7] on F.Cu, length 7.4246 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.2500 mm, -63.5000 mm): Track [1.8] on F.Cu, length 9.1924 mm
+    @(35.7500 mm, -64.0000 mm): Track [1.7] on F.Cu, length 15.5000 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.2500 mm, -25.0000 mm): Track [3.6] on F.Cu, length 7.7782 mm
+    @(50.2500 mm, -25.5000 mm): Track [3.5] on F.Cu, length 8.1317 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.2500 mm, -24.0000 mm): Track [3.8] on F.Cu, length 7.4246 mm
+    @(34.7500 mm, -24.5000 mm): Track [3.7] on F.Cu, length 15.5000 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.2500 mm, -25.0000 mm): Track [3.6] on F.Cu, length 7.7782 mm
+    @(50.2500 mm, -24.5000 mm): Track [3.7] on F.Cu, length 7.4246 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.2500 mm, -25.0000 mm): Track [3.6] on F.Cu, length 7.7782 mm
+    @(55.5000 mm, -29.7500 mm): Track [3.7] on F.Cu, length 9.1750 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(35.7500 mm, -45.2500 mm): Track [2.6] on F.Cu, length 14.7500 mm
+    @(50.5000 mm, -44.7500 mm): Track [2.7] on F.Cu, length 9.5459 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(57.5000 mm, -52.2500 mm): Track [2.6] on F.Cu, length 7.0900 mm
+    @(50.5000 mm, -45.7500 mm): Track [2.5] on F.Cu, length 9.8995 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.5000 mm, -45.2500 mm): Track [2.6] on F.Cu, length 9.8995 mm
+    @(57.2500 mm, -51.5000 mm): Track [2.7] on F.Cu, length 7.4550 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1645 mm)
+    Local override; error
+    @(64.7700 mm, -52.7050 mm): Pad P$6 [2.5] of U$6 on F.Cu
+    @(64.5900 mm, -52.2500 mm): Track [2.6] on F.Cu, length 0.2546 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.5000 mm, -44.2500 mm): Track [2.8] on F.Cu, length 9.1924 mm
+    @(34.7500 mm, -44.7500 mm): Track [2.7] on F.Cu, length 15.7500 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.5000 mm, -44.2500 mm): Track [2.8] on F.Cu, length 9.1924 mm
+    @(50.5000 mm, -44.7500 mm): Track [2.7] on F.Cu, length 9.5459 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.0000 mm, -4.2500 mm): Track [4.7] on F.Cu, length 7.4246 mm
+    @(35.7500 mm, -4.7500 mm): Track [4.6] on F.Cu, length 14.2500 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(55.2500 mm, -9.5000 mm): Track [4.7] on F.Cu, length 9.4950 mm
+    @(50.0000 mm, -4.7500 mm): Track [4.6] on F.Cu, length 7.7782 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(34.7500 mm, -4.2500 mm): Track [4.7] on F.Cu, length 15.2500 mm
+    @(50.0000 mm, -3.7500 mm): Track [4.8] on F.Cu, length 7.4246 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(55.2500 mm, -9.0000 mm): Track [4.8] on F.Cu, length 9.4100 mm
+    @(50.0000 mm, -4.2500 mm): Track [4.7] on F.Cu, length 7.4246 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1945 mm)
+    Local override; error
+    @(57.7500 mm, -70.0000 mm): Track [1.8] on F.Cu, length 6.8700 mm
+    @(64.7700 mm, -70.4850 mm): Pad P$8 [1.7] of U$5 on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1945 mm)
+    Local override; error
+    @(64.6200 mm, -70.0000 mm): Track [1.8] on F.Cu, length 0.2121 mm
+    @(64.7700 mm, -70.4850 mm): Pad P$8 [1.7] of U$5 on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(57.5000 mm, -69.2500 mm): Track [1.9] on F.Cu, length 7.2350 mm
+    @(51.2500 mm, -63.5000 mm): Track [1.8] on F.Cu, length 9.1924 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.2500 mm, -63.0000 mm): Track [1.9] on F.Cu, length 8.8388 mm
+    @(34.5000 mm, -63.5000 mm): Track [1.8] on F.Cu, length 16.7500 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.2500 mm, -24.0000 mm): Track [3.8] on F.Cu, length 7.4246 mm
+    @(50.2500 mm, -24.5000 mm): Track [3.7] on F.Cu, length 7.4246 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.2500 mm, -23.5000 mm): Track [3.9] on F.Cu, length 7.0711 mm
+    @(34.0000 mm, -24.0000 mm): Track [3.8] on F.Cu, length 16.2500 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.2500 mm, -24.5000 mm): Track [3.7] on F.Cu, length 7.4246 mm
+    @(55.5000 mm, -29.2500 mm): Track [3.8] on F.Cu, length 9.2300 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.2500 mm, -63.0000 mm): Track [1.9] on F.Cu, length 8.8388 mm
+    @(57.2500 mm, -68.5000 mm): Track [1.10] on F.Cu, length 7.4400 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.2500 mm, -62.5000 mm): Track [1.10] on F.Cu, length 8.4853 mm
+    @(31.7500 mm, -63.0000 mm): Track [1.9] on F.Cu, length 19.5000 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.2500 mm, -24.0000 mm): Track [3.8] on F.Cu, length 7.4246 mm
+    @(50.2500 mm, -23.5000 mm): Track [3.9] on F.Cu, length 7.0711 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(32.2500 mm, -23.5000 mm): Track [3.9] on F.Cu, length 18.0000 mm
+    @(50.2500 mm, -23.0000 mm): Track [3.10] on F.Cu, length 7.0711 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.2500 mm, -24.0000 mm): Track [3.8] on F.Cu, length 7.4246 mm
+    @(55.2500 mm, -28.5000 mm): Track [3.9] on F.Cu, length 9.4450 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.5000 mm, -44.2500 mm): Track [2.8] on F.Cu, length 9.1924 mm
+    @(50.5000 mm, -43.7500 mm): Track [2.9] on F.Cu, length 9.1924 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(33.2500 mm, -44.2500 mm): Track [2.8] on F.Cu, length 17.2500 mm
+    @(50.5000 mm, -43.7500 mm): Track [2.9] on F.Cu, length 9.1924 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.5000 mm, -44.7500 mm): Track [2.7] on F.Cu, length 9.5459 mm
+    @(57.0000 mm, -50.7500 mm): Track [2.8] on F.Cu, length 7.7200 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(56.7500 mm, -49.5000 mm): Track [2.10] on F.Cu, length 7.9900 mm
+    @(50.5000 mm, -43.7500 mm): Track [2.9] on F.Cu, length 9.1924 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.0000 mm, -3.7500 mm): Track [4.8] on F.Cu, length 7.4246 mm
+    @(55.0000 mm, -8.2500 mm): Track [4.9] on F.Cu, length 9.7650 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(32.5000 mm, -43.7500 mm): Track [2.9] on F.Cu, length 18.0000 mm
+    @(50.5000 mm, -43.2500 mm): Track [2.10] on F.Cu, length 8.8388 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.5000 mm, -44.2500 mm): Track [2.8] on F.Cu, length 9.1924 mm
+    @(57.0000 mm, -50.2500 mm): Track [2.9] on F.Cu, length 7.6850 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(33.7500 mm, -3.7500 mm): Track [4.8] on F.Cu, length 16.2500 mm
+    @(50.0000 mm, -3.2500 mm): Track [4.9] on F.Cu, length 7.0711 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1976 mm)
+    Local override; error
+    @(66.0400 mm, -50.8000 mm): Track [2.25] on F.Cu, length 6.4100 mm
+    @(70.2500 mm, -51.5000 mm): Via [2.26] on F.Cu - B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(31.5000 mm, -3.2500 mm): Track [4.9] on F.Cu, length 18.5000 mm
+    @(50.0000 mm, -2.7500 mm): Track [4.10] on F.Cu, length 6.7175 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.0000 mm, -3.7500 mm): Track [4.8] on F.Cu, length 7.4246 mm
+    @(50.0000 mm, -3.2500 mm): Track [4.9] on F.Cu, length 7.0711 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.2500 mm, -22.5000 mm): Track [3.11] on F.Cu, length 6.7175 mm
+    @(29.7500 mm, -23.0000 mm): Track [3.10] on F.Cu, length 20.5000 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.2500 mm, -23.5000 mm): Track [3.9] on F.Cu, length 7.0711 mm
+    @(50.2500 mm, -23.0000 mm): Track [3.10] on F.Cu, length 7.0711 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.2500 mm, -23.5000 mm): Track [3.9] on F.Cu, length 7.0711 mm
+    @(55.2500 mm, -28.0000 mm): Track [3.10] on F.Cu, length 9.4600 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.2500 mm, -22.5000 mm): Track [3.11] on F.Cu, length 6.7175 mm
+    @(55.0000 mm, -26.7500 mm): Track [3.12] on F.Cu, length 9.6900 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(29.2500 mm, -62.5000 mm): Track [1.10] on F.Cu, length 22.0000 mm
+    @(51.2500 mm, -62.0000 mm): Track [1.11] on F.Cu, length 8.4853 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(29.0000 mm, -22.5000 mm): Track [3.11] on F.Cu, length 21.2500 mm
+    @(50.2500 mm, -22.0000 mm): Track [3.12] on F.Cu, length 6.7175 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.2500 mm, -62.5000 mm): Track [1.10] on F.Cu, length 8.4853 mm
+    @(51.2500 mm, -63.0000 mm): Track [1.9] on F.Cu, length 8.8388 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.5000 mm, -42.7500 mm): Track [2.11] on F.Cu, length 8.8388 mm
+    @(29.5000 mm, -43.2500 mm): Track [2.10] on F.Cu, length 21.0000 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.2500 mm, -23.0000 mm): Track [3.10] on F.Cu, length 7.0711 mm
+    @(55.0000 mm, -27.2500 mm): Track [3.11] on F.Cu, length 9.7150 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.5000 mm, -43.7500 mm): Track [2.9] on F.Cu, length 9.1924 mm
+    @(50.5000 mm, -43.2500 mm): Track [2.10] on F.Cu, length 8.8388 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.2500 mm, -62.5000 mm): Track [1.10] on F.Cu, length 8.4853 mm
+    @(51.2500 mm, -62.0000 mm): Track [1.11] on F.Cu, length 8.4853 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(56.7500 mm, -49.0000 mm): Track [2.11] on F.Cu, length 7.9150 mm
+    @(50.5000 mm, -43.2500 mm): Track [2.10] on F.Cu, length 8.8388 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.2500 mm, -62.5000 mm): Track [1.10] on F.Cu, length 8.4853 mm
+    @(57.2500 mm, -68.0000 mm): Track [1.11] on F.Cu, length 7.4650 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.5000 mm, -42.7500 mm): Track [2.11] on F.Cu, length 8.8388 mm
+    @(50.5000 mm, -43.2500 mm): Track [2.10] on F.Cu, length 8.8388 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(28.7500 mm, -42.7500 mm): Track [2.11] on F.Cu, length 21.7500 mm
+    @(50.5000 mm, -42.2500 mm): Track [2.12] on F.Cu, length 8.4853 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.2500 mm, -61.5000 mm): Track [1.12] on F.Cu, length 8.1317 mm
+    @(28.2500 mm, -62.0000 mm): Track [1.11] on F.Cu, length 23.0000 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.2500 mm, -21.5000 mm): Track [3.13] on F.Cu, length 6.3640 mm
+    @(26.5000 mm, -22.0000 mm): Track [3.12] on F.Cu, length 23.7500 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(54.7500 mm, -26.0000 mm): Track [3.13] on F.Cu, length 9.9850 mm
+    @(50.2500 mm, -22.0000 mm): Track [3.12] on F.Cu, length 6.7175 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.2500 mm, -21.5000 mm): Track [3.13] on F.Cu, length 6.3640 mm
+    @(50.2500 mm, -22.0000 mm): Track [3.12] on F.Cu, length 6.7175 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(57.0000 mm, -67.2500 mm): Track [1.12] on F.Cu, length 7.7100 mm
+    @(51.2500 mm, -62.0000 mm): Track [1.11] on F.Cu, length 8.4853 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.2500 mm, -61.5000 mm): Track [1.12] on F.Cu, length 8.1317 mm
+    @(57.0000 mm, -66.7500 mm): Track [1.13] on F.Cu, length 7.6950 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(26.7500 mm, -42.2500 mm): Track [2.12] on F.Cu, length 23.7500 mm
+    @(50.5000 mm, -41.7500 mm): Track [2.13] on F.Cu, length 8.4853 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.5000 mm, -42.7500 mm): Track [2.11] on F.Cu, length 8.8388 mm
+    @(56.5000 mm, -48.2500 mm): Track [2.12] on F.Cu, length 8.2600 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.2500 mm, -61.0000 mm): Track [1.13] on F.Cu, length 8.1317 mm
+    @(27.7500 mm, -61.5000 mm): Track [1.12] on F.Cu, length 23.5000 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(56.5000 mm, -47.7500 mm): Track [2.13] on F.Cu, length 8.1450 mm
+    @(50.5000 mm, -42.2500 mm): Track [2.12] on F.Cu, length 8.4853 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.2500 mm, -61.0000 mm): Track [1.13] on F.Cu, length 8.1317 mm
+    @(56.7500 mm, -66.0000 mm): Track [1.14] on F.Cu, length 7.9800 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.5000 mm, -41.2500 mm): Track [2.14] on F.Cu, length 8.1317 mm
+    @(24.7500 mm, -41.7500 mm): Track [2.13] on F.Cu, length 25.7500 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.2500 mm, -60.5000 mm): Track [1.14] on F.Cu, length 7.7782 mm
+    @(27.2500 mm, -61.0000 mm): Track [1.13] on F.Cu, length 24.0000 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.5000 mm, -42.2500 mm): Track [2.12] on F.Cu, length 8.4853 mm
+    @(50.5000 mm, -41.7500 mm): Track [2.13] on F.Cu, length 8.4853 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.2500 mm, -60.5000 mm): Track [1.14] on F.Cu, length 7.7782 mm
+    @(56.7500 mm, -65.5000 mm): Track [1.15] on F.Cu, length 7.9250 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.2500 mm, -60.0000 mm): Track [1.15] on F.Cu, length 7.7782 mm
+    @(24.5000 mm, -60.5000 mm): Track [1.14] on F.Cu, length 26.7500 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(23.7500 mm, -60.0000 mm): Track [1.15] on F.Cu, length 27.5000 mm
+    @(51.2500 mm, -59.5000 mm): Track [1.16] on F.Cu, length 7.4246 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.2500 mm, -60.5000 mm): Track [1.14] on F.Cu, length 7.7782 mm
+    @(51.2500 mm, -60.0000 mm): Track [1.15] on F.Cu, length 7.7782 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.5000 mm, -41.2500 mm): Track [2.14] on F.Cu, length 8.1317 mm
+    @(50.5000 mm, -41.7500 mm): Track [2.13] on F.Cu, length 8.4853 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.5000 mm, -40.7500 mm): Track [2.15] on F.Cu, length 8.1317 mm
+    @(21.5000 mm, -41.2500 mm): Track [2.14] on F.Cu, length 29.0000 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(56.2500 mm, -47.0000 mm): Track [2.14] on F.Cu, length 8.5100 mm
+    @(50.5000 mm, -41.7500 mm): Track [2.13] on F.Cu, length 8.4853 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(50.5000 mm, -40.7500 mm): Track [2.15] on F.Cu, length 8.1317 mm
+    @(50.5000 mm, -41.2500 mm): Track [2.14] on F.Cu, length 8.1317 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(56.2500 mm, -46.5000 mm): Track [2.15] on F.Cu, length 8.3750 mm
+    @(50.5000 mm, -41.2500 mm): Track [2.14] on F.Cu, length 8.1317 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(56.5000 mm, -64.7500 mm): Track [1.16] on F.Cu, length 8.2500 mm
+    @(51.2500 mm, -60.0000 mm): Track [1.15] on F.Cu, length 7.7782 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1536 mm)
+    Local override; error
+    @(51.2500 mm, -60.0000 mm): Track [1.15] on F.Cu, length 7.7782 mm
+    @(51.2500 mm, -59.5000 mm): Track [1.16] on F.Cu, length 7.4246 mm
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(77.3430 mm, -50.1650 mm): Footprint text of JP19 (2)
+    @(78.1050 mm, -45.7200 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(77.3430 mm, -52.7050 mm): Footprint text of JP19 (1)
+    @(78.1050 mm, -45.7200 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(77.3430 mm, -69.2150 mm): Footprint text of JP4 (2)
+    @(78.1050 mm, -64.7700 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(78.1050 mm, -64.7700 mm): Segment on F.Silkscreen
+    @(77.3430 mm, -66.6750 mm): Footprint text of JP4 (3)
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(77.3430 mm, -47.6250 mm): Footprint text of JP19 (3)
+    @(78.1050 mm, -45.7200 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(45.4325 mm, -52.3225 mm): Reference field of U$2
+    @(52.7050 mm, -54.2925 mm): Segment of U$2 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(45.4325 mm, -71.3725 mm): Reference field of U$1
+    @(52.7050 mm, -73.3425 mm): Segment of U$1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(77.3430 mm, -71.7550 mm): Footprint text of JP4 (1)
+    @(78.1050 mm, -64.7700 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(52.7050 mm, -33.9725 mm): Segment of U$3 on F.Silkscreen
+    @(45.4325 mm, -32.0025 mm): Reference field of U$3
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(45.4325 mm, -11.6825 mm): Reference field of U$4
+    @(52.7050 mm, -13.6525 mm): Segment of U$4 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -54.2925 mm): Segment of U$2 on F.Silkscreen
+    @(26.6700 mm, -53.6425 mm): PTH pad P19 [2.26] of U$2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -54.2925 mm): Segment of U$2 on F.Silkscreen
+    @(21.5900 mm, -53.6425 mm): PTH pad 37 [<no net>] of U$2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -54.2925 mm): Segment of U$2 on F.Silkscreen
+    @(24.1300 mm, -53.6425 mm): PTH pad P22 [2.27] of U$2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -54.2925 mm): Segment of U$2 on F.Silkscreen
+    @(34.2900 mm, -53.6425 mm): PTH pad P11 [2.22] of U$2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -54.2925 mm): Segment of U$2 on F.Silkscreen
+    @(31.7500 mm, -53.6425 mm): PTH pad P14 [2.23] of U$2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -54.2925 mm): Segment of U$2 on F.Silkscreen
+    @(29.2100 mm, -53.6425 mm): PTH pad Z1 [REF1] of U$2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -54.2925 mm): Segment of U$2 on F.Silkscreen
+    @(19.0500 mm, -53.6425 mm): PTH pad P27 [2.30] of U$2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -54.2925 mm): Segment of U$2 on F.Silkscreen
+    @(13.9700 mm, -53.6425 mm): PTH pad 49 [<no net>] of U$2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -54.2925 mm): Segment of U$2 on F.Silkscreen
+    @(16.5100 mm, -53.6425 mm): PTH pad P30 [2.31] of U$2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -54.2925 mm): Segment of U$2 on F.Silkscreen
+    @(44.4500 mm, -53.6575 mm): PTH pad 0 [<no net>] of U$2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -54.2925 mm): Segment of U$2 on F.Silkscreen
+    @(41.9100 mm, -53.6425 mm): PTH pad 1.3 [2.18] of U$2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -54.2925 mm): Segment of U$2 on F.Silkscreen
+    @(39.3700 mm, -53.6425 mm): PTH pad 1.6 [2.19] of U$2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -54.2925 mm): Segment of U$2 on F.Silkscreen
+    @(36.8300 mm, -53.6425 mm): PTH pad 13 [<no net>] of U$2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -66.3575 mm): Segment of U$1 on F.Silkscreen
+    @(20.3200 mm, -66.9775 mm): PTH pad 40 [<no net>] of U$1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -66.3575 mm): Segment of U$1 on F.Silkscreen
+    @(17.7800 mm, -66.9775 mm): PTH pad P29 [1.15] of U$1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -66.3575 mm): Segment of U$1 on F.Silkscreen
+    @(15.2400 mm, -66.9775 mm): PTH pad P32 [1.16] of U$1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -66.3575 mm): Segment of U$1 on F.Silkscreen
+    @(40.6400 mm, -66.9775 mm): PTH pad 1.5 [1.3] of U$1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -66.3575 mm): Segment of U$1 on F.Silkscreen
+    @(43.1800 mm, -66.9775 mm): PTH pad 4 [<no net>] of U$1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -66.3575 mm): Segment of U$1 on F.Silkscreen
+    @(38.1000 mm, -66.9775 mm): PTH pad P8 [1.4] of U$1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -66.3575 mm): Segment of U$1 on F.Silkscreen
+    @(35.5600 mm, -66.9775 mm): PTH pad 16 [<no net>] of U$1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -66.3575 mm): Segment of U$1 on F.Silkscreen
+    @(33.0200 mm, -66.9775 mm): PTH pad P13 [1.7] of U$1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -66.3575 mm): Segment of U$1 on F.Silkscreen
+    @(30.4800 mm, -66.9775 mm): PTH pad P16 [1.8] of U$1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -66.3575 mm): Segment of U$1 on F.Silkscreen
+    @(27.9400 mm, -66.9775 mm): PTH pad 28 [<no net>] of U$1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -66.3575 mm): Segment of U$1 on F.Silkscreen
+    @(25.4000 mm, -66.9775 mm): PTH pad P21 [1.11] of U$1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -66.3575 mm): Segment of U$1 on F.Silkscreen
+    @(22.8600 mm, -66.9775 mm): PTH pad P24 [1.12] of U$1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -73.3425 mm): Segment of U$1 on F.Silkscreen
+    @(44.4500 mm, -72.7075 mm): PTH pad 0 [<no net>] of U$1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -73.3425 mm): Segment of U$1 on F.Silkscreen
+    @(41.9100 mm, -72.6925 mm): PTH pad 1.3 [1.18] of U$1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -73.3425 mm): Segment of U$1 on F.Silkscreen
+    @(39.3700 mm, -72.6925 mm): PTH pad 1.6 [N$10] of U$1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -73.3425 mm): Segment of U$1 on F.Silkscreen
+    @(36.8300 mm, -72.6925 mm): PTH pad 13 [<no net>] of U$1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -73.3425 mm): Segment of U$1 on F.Silkscreen
+    @(34.2900 mm, -72.6925 mm): PTH pad P11 [1.22] of U$1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -73.3425 mm): Segment of U$1 on F.Silkscreen
+    @(31.7500 mm, -72.6925 mm): PTH pad P14 [1.23] of U$1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -73.3425 mm): Segment of U$1 on F.Silkscreen
+    @(29.2100 mm, -72.6925 mm): PTH pad Z1 [REF] of U$1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -73.3425 mm): Segment of U$1 on F.Silkscreen
+    @(26.6700 mm, -72.6925 mm): PTH pad P19 [1.26] of U$1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -73.3425 mm): Segment of U$1 on F.Silkscreen
+    @(24.1300 mm, -72.6925 mm): PTH pad P22 [1.27] of U$1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -73.3425 mm): Segment of U$1 on F.Silkscreen
+    @(13.9700 mm, -72.6925 mm): PTH pad 49 [<no net>] of U$1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -73.3425 mm): Segment of U$1 on F.Silkscreen
+    @(21.5900 mm, -72.6925 mm): PTH pad 37 [<no net>] of U$1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -73.3425 mm): Segment of U$1 on F.Silkscreen
+    @(19.0500 mm, -72.6925 mm): PTH pad P27 [C1.30] of U$1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -73.3425 mm): Segment of U$1 on F.Silkscreen
+    @(16.5100 mm, -72.6925 mm): PTH pad P30 [C1.31] of U$1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -47.3075 mm): Segment of U$2 on F.Silkscreen
+    @(27.9400 mm, -47.9275 mm): PTH pad 28 [<no net>] of U$2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -47.3075 mm): Segment of U$2 on F.Silkscreen
+    @(25.4000 mm, -47.9275 mm): PTH pad P21 [2.11] of U$2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -47.3075 mm): Segment of U$2 on F.Silkscreen
+    @(22.8600 mm, -47.9275 mm): PTH pad P24 [2.12] of U$2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -47.3075 mm): Segment of U$2 on F.Silkscreen
+    @(33.0200 mm, -47.9275 mm): PTH pad P13 [2.7] of U$2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -47.3075 mm): Segment of U$2 on F.Silkscreen
+    @(30.4800 mm, -47.9275 mm): PTH pad P16 [2.8] of U$2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -47.3075 mm): Segment of U$2 on F.Silkscreen
+    @(35.5600 mm, -47.9275 mm): PTH pad 16 [<no net>] of U$2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -47.3075 mm): Segment of U$2 on F.Silkscreen
+    @(38.1000 mm, -47.9275 mm): PTH pad P8 [2.4] of U$2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -47.3075 mm): Segment of U$2 on F.Silkscreen
+    @(20.3200 mm, -47.9275 mm): PTH pad 40 [<no net>] of U$2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -47.3075 mm): Segment of U$2 on F.Silkscreen
+    @(17.7800 mm, -47.9275 mm): PTH pad P29 [2.15] of U$2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -47.3075 mm): Segment of U$2 on F.Silkscreen
+    @(15.2400 mm, -47.9275 mm): PTH pad P32 [2.16] of U$2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -47.3075 mm): Segment of U$2 on F.Silkscreen
+    @(40.6400 mm, -47.9275 mm): PTH pad 1.5 [2.3] of U$2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -47.3075 mm): Segment of U$2 on F.Silkscreen
+    @(43.1800 mm, -47.9275 mm): PTH pad 4 [<no net>] of U$2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -6.6675 mm): Segment of U$4 on F.Silkscreen
+    @(40.6400 mm, -7.2875 mm): PTH pad 1.5 [4.3] of U$4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -6.6675 mm): Segment of U$4 on F.Silkscreen
+    @(43.1800 mm, -7.2875 mm): PTH pad 4 [<no net>] of U$4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -6.6675 mm): Segment of U$4 on F.Silkscreen
+    @(35.5600 mm, -7.2875 mm): PTH pad 16 [<no net>] of U$4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -6.6675 mm): Segment of U$4 on F.Silkscreen
+    @(38.1000 mm, -7.2875 mm): PTH pad P8 [4.4] of U$4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -6.6675 mm): Segment of U$4 on F.Silkscreen
+    @(33.0200 mm, -7.2875 mm): PTH pad P13 [4.7] of U$4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -6.6675 mm): Segment of U$4 on F.Silkscreen
+    @(30.4800 mm, -7.2875 mm): PTH pad P16 [4.8] of U$4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -6.6675 mm): Segment of U$4 on F.Silkscreen
+    @(27.9400 mm, -7.2875 mm): PTH pad 28 [<no net>] of U$4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -6.6675 mm): Segment of U$4 on F.Silkscreen
+    @(25.4000 mm, -7.2875 mm): PTH pad P21 [4.11] of U$4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -6.6675 mm): Segment of U$4 on F.Silkscreen
+    @(22.8600 mm, -7.2875 mm): PTH pad P24 [4.12] of U$4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -6.6675 mm): Segment of U$4 on F.Silkscreen
+    @(20.3200 mm, -7.2875 mm): PTH pad 40 [<no net>] of U$4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -6.6675 mm): Segment of U$4 on F.Silkscreen
+    @(17.7800 mm, -7.2875 mm): PTH pad P29 [4.15] of U$4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -6.6675 mm): Segment of U$4 on F.Silkscreen
+    @(15.2400 mm, -7.2875 mm): PTH pad P32 [4.16] of U$4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -26.9875 mm): Segment of U$3 on F.Silkscreen
+    @(22.8600 mm, -27.6075 mm): PTH pad P24 [3.12] of U$3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -26.9875 mm): Segment of U$3 on F.Silkscreen
+    @(20.3200 mm, -27.6075 mm): PTH pad 40 [<no net>] of U$3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -26.9875 mm): Segment of U$3 on F.Silkscreen
+    @(17.7800 mm, -27.6075 mm): PTH pad P29 [3.15] of U$3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -26.9875 mm): Segment of U$3 on F.Silkscreen
+    @(15.2400 mm, -27.6075 mm): PTH pad P32 [3.16] of U$3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -26.9875 mm): Segment of U$3 on F.Silkscreen
+    @(40.6400 mm, -27.6075 mm): PTH pad 1.5 [3.3] of U$3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -26.9875 mm): Segment of U$3 on F.Silkscreen
+    @(43.1800 mm, -27.6075 mm): PTH pad 4 [<no net>] of U$3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -26.9875 mm): Segment of U$3 on F.Silkscreen
+    @(35.5600 mm, -27.6075 mm): PTH pad 16 [<no net>] of U$3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -26.9875 mm): Segment of U$3 on F.Silkscreen
+    @(38.1000 mm, -27.6075 mm): PTH pad P8 [3.4] of U$3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -26.9875 mm): Segment of U$3 on F.Silkscreen
+    @(27.9400 mm, -27.6075 mm): PTH pad 28 [<no net>] of U$3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -26.9875 mm): Segment of U$3 on F.Silkscreen
+    @(25.4000 mm, -27.6075 mm): PTH pad P21 [3.11] of U$3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -26.9875 mm): Segment of U$3 on F.Silkscreen
+    @(33.0200 mm, -27.6075 mm): PTH pad P13 [3.7] of U$3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.3350 mm, -26.9875 mm): Segment of U$3 on F.Silkscreen
+    @(30.4800 mm, -27.6075 mm): PTH pad P16 [3.8] of U$3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -33.9725 mm): Segment of U$3 on F.Silkscreen
+    @(26.6700 mm, -33.3225 mm): PTH pad P19 [3.26] of U$3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -33.9725 mm): Segment of U$3 on F.Silkscreen
+    @(21.5900 mm, -33.3225 mm): PTH pad 37 [<no net>] of U$3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -33.9725 mm): Segment of U$3 on F.Silkscreen
+    @(24.1300 mm, -33.3225 mm): PTH pad P22 [3.27] of U$3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -33.9725 mm): Segment of U$3 on F.Silkscreen
+    @(19.0500 mm, -33.3225 mm): PTH pad P27 [3.30] of U$3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -33.9725 mm): Segment of U$3 on F.Silkscreen
+    @(13.9700 mm, -33.3225 mm): PTH pad 49 [<no net>] of U$3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -33.9725 mm): Segment of U$3 on F.Silkscreen
+    @(16.5100 mm, -33.3225 mm): PTH pad P30 [3.31] of U$3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -33.9725 mm): Segment of U$3 on F.Silkscreen
+    @(39.3700 mm, -33.3225 mm): PTH pad 1.6 [3.19] of U$3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -33.9725 mm): Segment of U$3 on F.Silkscreen
+    @(36.8300 mm, -33.3225 mm): PTH pad 13 [<no net>] of U$3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -33.9725 mm): Segment of U$3 on F.Silkscreen
+    @(34.2900 mm, -33.3225 mm): PTH pad P11 [3.22] of U$3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -33.9725 mm): Segment of U$3 on F.Silkscreen
+    @(31.7500 mm, -33.3225 mm): PTH pad P14 [3.23] of U$3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -33.9725 mm): Segment of U$3 on F.Silkscreen
+    @(29.2100 mm, -33.3225 mm): PTH pad Z1 [REF2] of U$3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -33.9725 mm): Segment of U$3 on F.Silkscreen
+    @(44.4500 mm, -33.3375 mm): PTH pad 0 [<no net>] of U$3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -33.9725 mm): Segment of U$3 on F.Silkscreen
+    @(41.9100 mm, -33.3225 mm): PTH pad 1.3 [3.18] of U$3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -13.6525 mm): Segment of U$4 on F.Silkscreen
+    @(39.3700 mm, -13.0025 mm): PTH pad 1.6 [4.19] of U$4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -13.6525 mm): Segment of U$4 on F.Silkscreen
+    @(36.8300 mm, -13.0025 mm): PTH pad 13 [<no net>] of U$4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -13.6525 mm): Segment of U$4 on F.Silkscreen
+    @(34.2900 mm, -13.0025 mm): PTH pad P11 [4.22] of U$4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -13.6525 mm): Segment of U$4 on F.Silkscreen
+    @(31.7500 mm, -13.0025 mm): PTH pad P14 [4.23] of U$4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -13.6525 mm): Segment of U$4 on F.Silkscreen
+    @(29.2100 mm, -13.0025 mm): PTH pad Z1 [REF3] of U$4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -13.6525 mm): Segment of U$4 on F.Silkscreen
+    @(26.6700 mm, -13.0025 mm): PTH pad P19 [4.26] of U$4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -13.6525 mm): Segment of U$4 on F.Silkscreen
+    @(21.5900 mm, -13.0025 mm): PTH pad 37 [<no net>] of U$4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -13.6525 mm): Segment of U$4 on F.Silkscreen
+    @(24.1300 mm, -13.0025 mm): PTH pad P22 [4.27] of U$4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -13.6525 mm): Segment of U$4 on F.Silkscreen
+    @(19.0500 mm, -13.0025 mm): PTH pad P27 [4.30] of U$4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -13.6525 mm): Segment of U$4 on F.Silkscreen
+    @(13.9700 mm, -13.0025 mm): PTH pad 49 [<no net>] of U$4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -13.6525 mm): Segment of U$4 on F.Silkscreen
+    @(16.5100 mm, -13.0025 mm): PTH pad P30 [4.31] of U$4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -13.6525 mm): Segment of U$4 on F.Silkscreen
+    @(44.4500 mm, -13.0175 mm): PTH pad 0 [<no net>] of U$4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.7050 mm, -13.6525 mm): Segment of U$4 on F.Silkscreen
+    @(41.9100 mm, -13.0025 mm): PTH pad 1.3 [4.18] of U$4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(88.9000 mm, -51.6890 mm): Segment of JP15 on F.Silkscreen
+    @(90.1700 mm, -52.7050 mm): PTH pad 1 [<no net>] of JP15
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(88.9000 mm, -49.1490 mm): Segment of JP15 on F.Silkscreen
+    @(90.1700 mm, -50.1650 mm): PTH pad 2 [REF1] of JP15
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(88.9000 mm, -46.6090 mm): Segment of JP15 on F.Silkscreen
+    @(90.1700 mm, -47.6250 mm): PTH pad 3 [GND] of JP15
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(91.4400 mm, -49.1490 mm): Segment of JP15 on F.Silkscreen
+    @(90.1700 mm, -50.1650 mm): PTH pad 2 [REF1] of JP15
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(91.4400 mm, -46.6090 mm): Segment of JP15 on F.Silkscreen
+    @(90.1700 mm, -47.6250 mm): PTH pad 3 [GND] of JP15
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(91.4400 mm, -51.6890 mm): Segment of JP15 on F.Silkscreen
+    @(90.1700 mm, -52.7050 mm): PTH pad 1 [<no net>] of JP15
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(93.9800 mm, -46.6090 mm): Segment of JP13 on F.Silkscreen
+    @(95.2500 mm, -47.6250 mm): PTH pad 3 [GND] of JP13
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(96.5200 mm, -46.6090 mm): Segment of JP13 on F.Silkscreen
+    @(95.2500 mm, -47.6250 mm): PTH pad 3 [GND] of JP13
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(93.9800 mm, -49.1490 mm): Segment of JP13 on F.Silkscreen
+    @(95.2500 mm, -50.1650 mm): PTH pad 2 [REF] of JP13
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(96.5200 mm, -49.1490 mm): Segment of JP13 on F.Silkscreen
+    @(95.2500 mm, -50.1650 mm): PTH pad 2 [REF] of JP13
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(96.5200 mm, -51.6890 mm): Segment of JP13 on F.Silkscreen
+    @(95.2500 mm, -52.7050 mm): PTH pad 1 [<no net>] of JP13
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(93.9800 mm, -51.6890 mm): Segment of JP13 on F.Silkscreen
+    @(95.2500 mm, -52.7050 mm): PTH pad 1 [<no net>] of JP13
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(88.9000 mm, -65.6590 mm): Segment of JP1 on F.Silkscreen
+    @(90.1700 mm, -66.6750 mm): PTH pad 3 [J31] of JP1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(91.4400 mm, -65.6590 mm): Segment of JP1 on F.Silkscreen
+    @(90.1700 mm, -66.6750 mm): PTH pad 3 [J31] of JP1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(86.3600 mm, -65.6590 mm): Segment of JP2 on F.Silkscreen
+    @(85.0900 mm, -66.6750 mm): PTH pad 3 [J30] of JP2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(96.5200 mm, -65.6590 mm): Segment of JP3 on F.Silkscreen
+    @(95.2500 mm, -66.6750 mm): PTH pad 3 [J32] of JP3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(78.7400 mm, -65.6590 mm): Segment of JP4 on F.Silkscreen
+    @(80.0100 mm, -66.6750 mm): PTH pad 3 [J29] of JP4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(81.2800 mm, -65.6590 mm): Segment of JP4 on F.Silkscreen
+    @(80.0100 mm, -66.6750 mm): PTH pad 3 [J29] of JP4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(83.8200 mm, -65.6590 mm): Segment of JP2 on F.Silkscreen
+    @(85.0900 mm, -66.6750 mm): PTH pad 3 [J30] of JP2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(91.4400 mm, -70.7390 mm): Segment of JP1 on F.Silkscreen
+    @(90.1700 mm, -71.7550 mm): PTH pad 1 [C1.31] of JP1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(93.9800 mm, -70.7390 mm): Segment of JP3 on F.Silkscreen
+    @(95.2500 mm, -71.7550 mm): PTH pad 1 [C1.32] of JP3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(96.5200 mm, -70.7390 mm): Segment of JP3 on F.Silkscreen
+    @(95.2500 mm, -71.7550 mm): PTH pad 1 [C1.32] of JP3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(93.9800 mm, -65.6590 mm): Segment of JP3 on F.Silkscreen
+    @(95.2500 mm, -66.6750 mm): PTH pad 3 [J32] of JP3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(93.9800 mm, -68.1990 mm): Segment of JP3 on F.Silkscreen
+    @(95.2500 mm, -69.2150 mm): PTH pad 2 [1.32] of JP3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(96.5200 mm, -68.1990 mm): Segment of JP3 on F.Silkscreen
+    @(95.2500 mm, -69.2150 mm): PTH pad 2 [1.32] of JP3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(81.2800 mm, -51.6890 mm): Segment of JP19 on F.Silkscreen
+    @(80.0100 mm, -52.7050 mm): PTH pad 1 [<no net>] of JP19
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(83.8200 mm, -51.6890 mm): Segment of JP17 on F.Silkscreen
+    @(85.0900 mm, -52.7050 mm): PTH pad 1 [<no net>] of JP17
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(86.3600 mm, -51.6890 mm): Segment of JP17 on F.Silkscreen
+    @(85.0900 mm, -52.7050 mm): PTH pad 1 [<no net>] of JP17
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(86.3600 mm, -49.1490 mm): Segment of JP17 on F.Silkscreen
+    @(85.0900 mm, -50.1650 mm): PTH pad 2 [REF2] of JP17
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(83.8200 mm, -49.1490 mm): Segment of JP17 on F.Silkscreen
+    @(85.0900 mm, -50.1650 mm): PTH pad 2 [REF2] of JP17
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(78.7400 mm, -51.6890 mm): Segment of JP19 on F.Silkscreen
+    @(80.0100 mm, -52.7050 mm): PTH pad 1 [<no net>] of JP19
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(78.7400 mm, -46.6090 mm): Segment of JP19 on F.Silkscreen
+    @(80.0100 mm, -47.6250 mm): PTH pad 3 [GND] of JP19
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(81.2800 mm, -49.1490 mm): Segment of JP19 on F.Silkscreen
+    @(80.0100 mm, -50.1650 mm): PTH pad 2 [REF3] of JP19
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(78.7400 mm, -49.1490 mm): Segment of JP19 on F.Silkscreen
+    @(80.0100 mm, -50.1650 mm): PTH pad 2 [REF3] of JP19
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(86.3600 mm, -46.6090 mm): Segment of JP17 on F.Silkscreen
+    @(85.0900 mm, -47.6250 mm): PTH pad 3 [GND] of JP17
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(81.2800 mm, -46.6090 mm): Segment of JP19 on F.Silkscreen
+    @(80.0100 mm, -47.6250 mm): PTH pad 3 [GND] of JP19
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(83.8200 mm, -46.6090 mm): Segment of JP17 on F.Silkscreen
+    @(85.0900 mm, -47.6250 mm): PTH pad 3 [GND] of JP17
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(91.4400 mm, -68.1990 mm): Segment of JP1 on F.Silkscreen
+    @(90.1700 mm, -69.2150 mm): PTH pad 2 [1.31] of JP1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(88.9000 mm, -70.7390 mm): Segment of JP1 on F.Silkscreen
+    @(90.1700 mm, -71.7550 mm): PTH pad 1 [C1.31] of JP1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(88.9000 mm, -68.1990 mm): Segment of JP1 on F.Silkscreen
+    @(90.1700 mm, -69.2150 mm): PTH pad 2 [1.31] of JP1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(78.7400 mm, -70.7390 mm): Segment of JP4 on F.Silkscreen
+    @(80.0100 mm, -71.7550 mm): PTH pad 1 [C1.29] of JP4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(81.2800 mm, -70.7390 mm): Segment of JP4 on F.Silkscreen
+    @(80.0100 mm, -71.7550 mm): PTH pad 1 [C1.29] of JP4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(78.7400 mm, -68.1990 mm): Segment of JP4 on F.Silkscreen
+    @(80.0100 mm, -69.2150 mm): PTH pad 2 [1.29] of JP4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(81.2800 mm, -68.1990 mm): Segment of JP4 on F.Silkscreen
+    @(80.0100 mm, -69.2150 mm): PTH pad 2 [1.29] of JP4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(83.8200 mm, -68.1990 mm): Segment of JP2 on F.Silkscreen
+    @(85.0900 mm, -69.2150 mm): PTH pad 2 [1.30] of JP2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(86.3600 mm, -68.1990 mm): Segment of JP2 on F.Silkscreen
+    @(85.0900 mm, -69.2150 mm): PTH pad 2 [1.30] of JP2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(83.8200 mm, -70.7390 mm): Segment of JP2 on F.Silkscreen
+    @(85.0900 mm, -71.7550 mm): PTH pad 1 [C1.30] of JP2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(86.3600 mm, -70.7390 mm): Segment of JP2 on F.Silkscreen
+    @(85.0900 mm, -71.7550 mm): PTH pad 1 [C1.30] of JP2
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0488 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(95.2500 mm, -1.9050 mm): PCB text 'version 2.0, January 2015
+design at open-ephys.org' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5608 mm)
+    Rule: board setup constraints silk text height; warning
+    @(95.2500 mm, -1.9050 mm): PCB text 'version 2.0, January 2015
+design at open-ephys.org' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0488 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(98.4250 mm, -71.1200 mm): PCB text 'C1' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5608 mm)
+    Rule: board setup constraints silk text height; warning
+    @(98.4250 mm, -71.1200 mm): PCB text 'C1' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0488 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(98.4250 mm, -68.5800 mm): PCB text 'OMN' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5608 mm)
+    Rule: board setup constraints silk text height; warning
+    @(98.4250 mm, -68.5800 mm): PCB text 'OMN' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0488 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(98.4250 mm, -65.4050 mm): PCB text 'JMP' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5608 mm)
+    Rule: board setup constraints silk text height; warning
+    @(98.4250 mm, -65.4050 mm): PCB text 'JMP' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0488 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(98.4250 mm, -52.0700 mm): PCB text 'JMP' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5608 mm)
+    Rule: board setup constraints silk text height; warning
+    @(98.4250 mm, -52.0700 mm): PCB text 'JMP' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0488 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(98.4250 mm, -49.5300 mm): PCB text 'REF' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5608 mm)
+    Rule: board setup constraints silk text height; warning
+    @(98.4250 mm, -49.5300 mm): PCB text 'REF' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0488 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(98.4250 mm, -46.3550 mm): PCB text 'GND' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5608 mm)
+    Rule: board setup constraints silk text height; warning
+    @(98.4250 mm, -46.3550 mm): PCB text 'GND' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(81.2800 mm, -61.5950 mm): PCB text 'PIN1' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(81.2800 mm, -61.5950 mm): PCB text 'PIN1' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(81.2800 mm, -41.2750 mm): PCB text 'con 1' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(81.2800 mm, -41.2750 mm): PCB text 'con 1' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(84.4550 mm, -21.5900 mm): PCB text 'REF' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(84.4550 mm, -21.5900 mm): PCB text 'REF' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(86.3600 mm, -61.5950 mm): PCB text 'PIN2' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(86.3600 mm, -61.5950 mm): PCB text 'PIN2' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(86.3600 mm, -41.2750 mm): PCB text 'con 2' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(86.3600 mm, -41.2750 mm): PCB text 'con 2' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(86.3600 mm, -21.5900 mm): PCB text 'con' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(86.3600 mm, -21.5900 mm): PCB text 'con' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(91.4400 mm, -61.5950 mm): PCB text 'PIN3' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(91.4400 mm, -61.5950 mm): PCB text 'PIN3' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(91.4400 mm, -41.2750 mm): PCB text 'con 3' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(91.4400 mm, -41.2750 mm): PCB text 'con 3' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(94.6150 mm, -21.5900 mm): PCB text 'C1' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(94.6150 mm, -21.5900 mm): PCB text 'C1' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(96.5200 mm, -61.5950 mm): PCB text 'PIN4' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(96.5200 mm, -61.5950 mm): PCB text 'PIN4' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(96.5200 mm, -41.2750 mm): PCB text 'con 4' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(96.5200 mm, -41.2750 mm): PCB text 'con 4' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(96.5200 mm, -21.5900 mm): PCB text 'pin' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(96.5200 mm, -21.5900 mm): PCB text 'pin' on F.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

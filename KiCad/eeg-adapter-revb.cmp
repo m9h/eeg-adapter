@@ -1,0 +1,187 @@
+Cmp-Mod V01 Created by PcbNew   date = 2026-06-26T15:12:53
+
+BeginCmp
+TimeStamp = 06309ee7-644a-4493-a5f9-2bdbbe969e2b
+Path = 
+Reference = JP7;
+ValeurCmp = [NoVal];
+IdModule  = JP4Q;
+EndCmp
+
+BeginCmp
+TimeStamp = 0ecf61a4-bf11-4a1e-8c6c-98307f502142
+Path = 
+Reference = U$9;
+ValeurCmp = [NoVal];
+IdModule  = OPEN_EPHYS_LOGO;
+EndCmp
+
+BeginCmp
+TimeStamp = 2485d003-25a8-4c77-8a44-90ee60ed1fb7
+Path = 
+Reference = UNK_HOLE_0;
+ValeurCmp = [NoVal];
+IdModule  = dummyfp0;
+EndCmp
+
+BeginCmp
+TimeStamp = 33ebb683-5842-4064-830d-1a66966b2b0d
+Path = 
+Reference = U$4;
+ValeurCmp = P50;
+IdModule  = CON-MOLEX_71061-0003SM;
+EndCmp
+
+BeginCmp
+TimeStamp = 3f8508af-843a-4973-91dd-705754dc93ea
+Path = 
+Reference = U$3;
+ValeurCmp = P50;
+IdModule  = CON-MOLEX_71061-0003SM;
+EndCmp
+
+BeginCmp
+TimeStamp = 4a8e0503-e3d9-402e-80da-b9221e14a57d
+Path = 
+Reference = JP15;
+ValeurCmp = [NoVal];
+IdModule  = JP2;
+EndCmp
+
+BeginCmp
+TimeStamp = 4b39264e-b8f9-4ce1-99b9-00b82babf84b
+Path = 
+Reference = U$8;
+ValeurCmp = NPD-36-VV-GS;
+IdModule  = NPD-36-VV-GS;
+EndCmp
+
+BeginCmp
+TimeStamp = 50c1a197-98f9-4adb-9b11-8e5aaeee3fcb
+Path = 
+Reference = JP1;
+ValeurCmp = [NoVal];
+IdModule  = JP2;
+EndCmp
+
+BeginCmp
+TimeStamp = 579c2daf-f00e-42ff-b8c0-54c329039367
+Path = 
+Reference = U$2;
+ValeurCmp = P50;
+IdModule  = CON-MOLEX_71061-0003SM;
+EndCmp
+
+BeginCmp
+TimeStamp = 5fb64354-75f5-49c8-94a3-40736bea711c
+Path = 
+Reference = U$6;
+ValeurCmp = NPD-36-VV-GS;
+IdModule  = NPD-36-VV-GS;
+EndCmp
+
+BeginCmp
+TimeStamp = 602b120a-dd02-4b9e-8b6a-1c555f7c3658
+Path = 
+Reference = UNK_HOLE_3;
+ValeurCmp = [NoVal];
+IdModule  = dummyfp3;
+EndCmp
+
+BeginCmp
+TimeStamp = 68155cd2-e5b5-4866-82ed-079be47a9a03
+Path = 
+Reference = JP19;
+ValeurCmp = [NoVal];
+IdModule  = JP2;
+EndCmp
+
+BeginCmp
+TimeStamp = 691fafe5-e2bc-4692-b312-24eed473e097
+Path = 
+Reference = JP13;
+ValeurCmp = [NoVal];
+IdModule  = JP2;
+EndCmp
+
+BeginCmp
+TimeStamp = 799049bc-5437-4841-bf77-8ca6f1c0a1d4
+Path = 
+Reference = JP4;
+ValeurCmp = [NoVal];
+IdModule  = JP2;
+EndCmp
+
+BeginCmp
+TimeStamp = 821614a0-0993-4893-b81d-7e375b9500b9
+Path = 
+Reference = UNK_HOLE_2;
+ValeurCmp = [NoVal];
+IdModule  = dummyfp2;
+EndCmp
+
+BeginCmp
+TimeStamp = 84713f43-b55d-4103-8c77-fcc33be0bd28
+Path = 
+Reference = UNK_HOLE_1;
+ValeurCmp = [NoVal];
+IdModule  = dummyfp1;
+EndCmp
+
+BeginCmp
+TimeStamp = 9987de60-5270-4d4f-83ed-fd3f74075424
+Path = 
+Reference = JP6;
+ValeurCmp = [NoVal];
+IdModule  = JP4Q;
+EndCmp
+
+BeginCmp
+TimeStamp = a2328993-d006-405d-a8ba-263ab153d241
+Path = 
+Reference = U$1;
+ValeurCmp = P50;
+IdModule  = CON-MOLEX_71061-0003SM;
+EndCmp
+
+BeginCmp
+TimeStamp = ac3c1661-5d06-47d4-8bc7-00dddeb57db5
+Path = 
+Reference = U$7;
+ValeurCmp = NPD-36-VV-GS;
+IdModule  = NPD-36-VV-GS;
+EndCmp
+
+BeginCmp
+TimeStamp = c9128ffd-e122-4673-8a46-93797d264fb1
+Path = 
+Reference = JP17;
+ValeurCmp = [NoVal];
+IdModule  = JP2;
+EndCmp
+
+BeginCmp
+TimeStamp = d8136fc0-4396-44fa-9fcd-0aaaf4291e72
+Path = 
+Reference = JP3;
+ValeurCmp = [NoVal];
+IdModule  = JP2;
+EndCmp
+
+BeginCmp
+TimeStamp = e2527dff-dec3-4bf3-9c76-e374449a77e4
+Path = 
+Reference = U$5;
+ValeurCmp = NPD-36-VV-GS;
+IdModule  = NPD-36-VV-GS;
+EndCmp
+
+BeginCmp
+TimeStamp = e63e7027-fc6c-470b-a9da-51de039d6355
+Path = 
+Reference = JP2;
+ValeurCmp = [NoVal];
+IdModule  = JP2;
+EndCmp
+
+EndListe
