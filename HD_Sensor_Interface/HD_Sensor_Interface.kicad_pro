@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "filename": "HD_Sensor_Interface.kicad_pro",
+    "version": 1
+  },
+  "board": {
+    "design_settings": {
+      "defaults": {
+        "board_outline_line_width": 0.1,
+        "copper_line_width": 0.2,
+        "copper_text_size_h": 1.5,
+        "copper_text_size_v": 1.5,
+        "copper_text_thickness": 0.3,
+        "copper_text_upright": false,
+        "courtyard_line_width": 0.05,
+        "dimension_precision": 4,
+        "dimension_units": 3,
+        "fab_line_width": 0.1,
+        "fab_text_size_h": 1.0,
+        "fab_text_size_v": 1.0,
+        "fab_text_thickness": 0.15,
+        "fab_text_upright": false,
+        "grid_origin_x": 0.0,
+        "grid_origin_y": 0.0,
+        "layer_presets": [],
+        "pad_drill": 0.762,
+        "pad_to_mask_clearance": 0.051,
+        "pad_to_paste_clearance": -0.0,
+        "silkscreen_line_width": 0.12,
+        "silkscreen_text_size_h": 1.0,
+        "silkscreen_text_size_v": 1.0,
+        "silkscreen_text_thickness": 0.15,
+        "silkscreen_text_upright": false,
+        "zone_45_only": true,
+        "zone_border_style": 0,
+        "zone_connect_pads": true,
+        "zone_def_clearance": 0.508
+      }
+    }
+  },
+  "schematic": {
+    "meta": {
+      "version": 1
+    },
+    "net_format_name": "KiCad"
+  },
+  "sheets": [
+    [
+      "a1b2c3d4-e5f6-7890-1234-56789abcdef0",
+      ""
+    ]
+  ]
+}
