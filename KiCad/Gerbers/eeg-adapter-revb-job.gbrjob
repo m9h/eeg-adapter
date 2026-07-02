@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "10.0.3-2.fc44"
+      "Version": "10.0.4-1.fc44"
     },
-    "CreationDate": "2026-06-26T15:21:10-07:00"
+    "CreationDate": "2026-07-02T15:55:56-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -24,47 +24,57 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.2,
-      "PadToTrack": 0.2,
-      "TrackToTrack": 0.2,
+      "PadToPad": 0.15,
+      "PadToTrack": 0.15,
+      "TrackToTrack": 0.15,
       "MinLineWidth": 0.2,
-      "TrackToRegion": 0.2,
-      "RegionToRegion": 0.2
+      "TrackToRegion": 0.1524,
+      "RegionToRegion": 0.1524
     }
   ],
   "FilesAttributes": [
     {
-      "Path": "eeg-adapter-revb-F_Cu.gtl",
+      "Path": "eeg-adapter-revb-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "eeg-adapter-revb-B_Cu.gbl",
+      "Path": "eeg-adapter-revb-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "eeg-adapter-revb-F_Silkscreen.gto",
+      "Path": "eeg-adapter-revb-F_Paste.gbr",
+      "FileFunction": "SolderPaste,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "eeg-adapter-revb-B_Paste.gbr",
+      "FileFunction": "SolderPaste,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "eeg-adapter-revb-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "eeg-adapter-revb-B_Silkscreen.gbo",
+      "Path": "eeg-adapter-revb-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "eeg-adapter-revb-F_Mask.gts",
+      "Path": "eeg-adapter-revb-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "eeg-adapter-revb-B_Mask.gbs",
+      "Path": "eeg-adapter-revb-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "eeg-adapter-revb-Edge_Cuts.gm1",
+      "Path": "eeg-adapter-revb-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
